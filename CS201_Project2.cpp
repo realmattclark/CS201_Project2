@@ -1,5 +1,4 @@
 #include <iostream>
-#include <iomanip>
 using namespace std;
 
 
@@ -134,7 +133,6 @@ int main() {
 		cin >> choice;
 
 		if (choice[0] == 'N' || choice[0] == 'n') {
-
 			break;
 
 		}
